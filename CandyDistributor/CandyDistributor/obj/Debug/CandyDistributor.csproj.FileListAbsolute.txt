@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\CandyDistributor\CandyDistributor\bin\Debug\CandyDistributor.exe
+C:\Users\Admin\RiderProjects\CandyDistributor\CandyDistributor\bin\Debug\CandyDistributor.pdb
+C:\Users\Admin\RiderProjects\CandyDistributor\CandyDistributor\obj\Debug\CandyDistributor.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\CandyDistributor\CandyDistributor\obj\Debug\CandyDistributor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\CandyDistributor\CandyDistributor\obj\Debug\CandyDistributor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\CandyDistributor\CandyDistributor\obj\Debug\CandyDistributor.exe
+C:\Users\Admin\RiderProjects\CandyDistributor\CandyDistributor\obj\Debug\CandyDistributor.pdb
